@@ -1,0 +1,13 @@
+.idea/*
+*.pyc
+env/*
+venv/*
+*.egg*
+.cache
+.tox
+*.log
+recommendation-system/static/uploads/*
+tests_uploads/*
+supenv
+.pytest_cache/
+

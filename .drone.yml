@@ -1,0 +1,6 @@
+kind: template
+load: general-crane.jsonnet
+data:
+  IMAGENAME: "recommendation-server"
+  VERSION: "2.5.0"
+  cdPath: "cd-recommendation-server"
